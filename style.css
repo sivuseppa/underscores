@@ -26,6 +26,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 # Typography
 # Elements
 # Forms
+# Header
 # Navigation
 	## Links
 	## Menus
@@ -41,6 +42,13 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	## Captions
 	## Galleries
 --------------------------------------------------------------*/
+
+header#masthead {
+    display: flex;
+}
+
+
+
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
